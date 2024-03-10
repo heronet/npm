@@ -1,2 +1,3 @@
-console.log("Hello, World!");
-
+module.exports = function say() {
+	console.log("Hello, World!");
+}
